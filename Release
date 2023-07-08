@@ -1,0 +1,8 @@
+Origin: Biel IOS
+Label: Biel IOS
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Biel Rei Dos Xits IOS
