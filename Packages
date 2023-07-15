@@ -27,15 +27,15 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.biel.ios2
-Version: 1.0.0-1
+Version: 1.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Serverap
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.biel.ios2_1.0_iphoneos-arm.deb
 Size: 223276
 MD5sum: 20395dcbc4f6f299ad3963432b874701
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Biel IOS
-Author: Reposi3 <reposithree@gmail.com>
+Description: Made by biel ios
+Name: Biel IOS Palera1n
+Author: Biel IOS
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
