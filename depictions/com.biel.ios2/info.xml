@@ -1,7 +1,7 @@
 <package>
 	<id>com.biel.ios2</id>
-	<name>Biel IOS</name>
-	<version>1.0.0-1</version>
+	<name>Biel IOS Palera1n</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
