@@ -39,3 +39,17 @@ Description: Made by biel ios
 Name: Biel IOS Palera1n
 Author: Biel IOS
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.biel.ios
+Version: 1.0
+Section: Tweaks
+Maintainer: Serverap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.biel.ios_1.0_iphoneos-arm.deb
+Size: 284110
+MD5sum: cd31363de866b3ae53bc30e30be25637
+Description: Made by biel ios
+Name: Biel IOS
+Author: Biel IOS
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
