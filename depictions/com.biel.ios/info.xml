@@ -1,0 +1,12 @@
+<package>
+  <id>com.biel.ios</id>
+  <name>Biel IOS</name>
+  <depends>mobilesubstrate</depends>
+  <version>1.0</version>
+  <architecture>iphoneos-arm</architecture>
+  <description>Made by biel ios</description>
+  <maintainer>Serverap</maintainer>
+  <author>Biel IOS</author>
+  <section>Tweaks</section>
+  <homepage>biel.dev</homepage>
+</package>
